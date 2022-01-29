@@ -5,3 +5,6 @@
 Practice- A basic HTML Refresher to learn how to use GitHub's live website preview for more advanced projects.
 
 Bare bones website with no CSS; uses multiple pages, embedded images, lists, and links.
+
+
+![recipes](https://user-images.githubusercontent.com/91037796/151679229-16c6e2f8-7d13-46ac-abac-da1409141a77.png)
