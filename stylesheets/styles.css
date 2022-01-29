@@ -1,10 +1,7 @@
 * {
-    color: white;
-    background-color: black;
+    font-family: Arial;
   }
 
-  body {
-    color: white;
-    background-color: black;
+  h1 {
+    font-weight: bold;
   }
-
