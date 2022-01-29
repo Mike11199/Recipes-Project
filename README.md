@@ -1,5 +1,5 @@
 # Recipes-Project
-The Odin Project:  Basic HTML Refresher for Practice
+The Odin Project:  Basic HTML Refresher to practice using GitHub live website preview.
 
 
 
