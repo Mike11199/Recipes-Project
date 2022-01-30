@@ -6,5 +6,7 @@ Practice- A basic HTML Refresher to learn how to use GitHub's live website previ
 
 Website incorporating CSS;  multiple pages, embedded images, lists, and links.
 
+<br/>
 
-![recipes](https://user-images.githubusercontent.com/91037796/151679229-16c6e2f8-7d13-46ac-abac-da1409141a77.png)
+
+![website1](https://user-images.githubusercontent.com/91037796/151682375-f42d1789-83b2-4ba1-b43f-d5d1e5861853.png)
