@@ -4,7 +4,7 @@
 
 Practice- A basic HTML Refresher to learn how to use GitHub's live website preview for more advanced projects.
 
-Website incorporating CSS;  multiple pages, embedded images, lists, and links.
+Website incorporating CSS, multiple linked pages, embedded images, ordered/unordered lists, and links.
 
 <br/>
 
